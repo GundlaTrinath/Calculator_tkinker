@@ -1,5 +1,5 @@
 # Calculator_tkinker
-Basic Calculator application created using  `tkinker` with **python**
+Basic Calculator application created using  `tkinter` with **python**
 
 ---
 ### SCREENSHOT
