@@ -1,4 +1,4 @@
-# Calculator_tkinker
+# Calculator_tkinter
 Basic Calculator application created using  `tkinter` with **python**
 
 ---
